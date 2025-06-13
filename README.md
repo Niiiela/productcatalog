@@ -100,4 +100,7 @@ obs.: Após esse procedimento, sair do visualstuduio e  acessei novamente acessa
 Referências:
 - https://laravel.com/docs/12.x
 - https://www.youtube.com/watch?v=daq5S5-55Lw
+- https://tailwindcss.com/
+- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+- https://bladewindui.com/component/list-view
 
