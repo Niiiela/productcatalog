@@ -1,4 +1,12 @@
 # Instruções de instalação:
+
+obs.: Seu computador precisar ter instalado o php, node e o composer.
+link para baixar o php: https://www.php.net/downloads
+link para baixar o node: https://nodejs.org/pt
+linl para baixar o composer: https://getcomposer.org/download/
+
+- Passo a passo:
+
 - Segue o link do repositório: https://github.com/Niiiela/productcatalog.git
 - Execultar no terminal (visual studio code): 
 * git clone https://github.com/Niiiela/productcatalog.git
@@ -10,6 +18,7 @@
 * npm rum dev
 * em outra tela de terminal: execultar o comando: php artisan serve
 * Em seguida acesse o link exibido no terminal após execultar o código anterior.
+
 
 
 
