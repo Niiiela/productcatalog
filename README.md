@@ -1,9 +1,9 @@
 # Instruções de instalação:
 
-obs.: Seu computador precisar ter instalado o php, node e o composer.
-link para baixar o php: https://www.php.net/downloads
-link para baixar o node: https://nodejs.org/pt
-linl para baixar o composer: https://getcomposer.org/download/
+- obs.: Seu computador precisar ter instalado o php, node e o composer.
+- link para baixar o php: https://www.php.net/downloads
+- link para baixar o node: https://nodejs.org/pt
+- linl para baixar o composer: https://getcomposer.org/download/
 
 - Passo a passo:
 
