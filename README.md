@@ -13,7 +13,7 @@
 * cd productcatalog
 * composer install
 * npm install 
-* renomer o arquivo "env" para ".env"
+* renomer o arquivo "env" para ".env" obs.: (No .env na parte do mysql nas linha DB_USERNAME= e DB_PASSWORD= deve informar o login e senha do seu mysql)
 * php artisan migrate
 * npm rum dev
 * em outra tela de terminal: execultar o comando: php artisan serve
